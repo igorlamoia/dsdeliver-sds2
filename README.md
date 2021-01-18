@@ -8,7 +8,7 @@
 https://igorlamoia-sds2.netlify.app
 
 
-Um aplicativo de delivery construído durante a 2ª edição da **Semana devSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
+Um aplicativo de delivery construído durante a 2ª edição da **Semana devSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior"). Na aplicação web, criada para que os clientes, os pedidos são feitos. Já no mobile app, os entregadores têm acesso aos pedidos, ordenados pelos mais antigos, podendo iniciar a navegação via google maps, confirmar ou cancelar a entrega.
 
 
 <p align="center">
